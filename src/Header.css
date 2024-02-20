@@ -1,0 +1,43 @@
+.girl{
+    width: 10%;
+    height: 10%;
+    margin-right:25% ;
+    margin-bottom: -8%;
+    margin-top: 2%;
+}
+
+.header {
+    background-color: #214b4ba5;
+    color: #fff;
+    padding: 24px;
+    font-family: garamond;
+    text-align: center;
+  }
+  
+  .header-title {
+    margin-right: 2%;
+  }
+  
+  .header-nav {
+    margin-top: 20px;
+  }
+  
+  .header-nav-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .header-nav-item {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .header-nav-item a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .header-nav-item a:hover {
+    text-decoration: underline;
+  }
+  

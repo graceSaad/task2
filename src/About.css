@@ -1,0 +1,25 @@
+
+
+.about {
+    padding: 40px ;
+    margin-left: -10%;
+    width: 106%;
+    background-color: #d3dbe2;
+    font-family: garamond;
+    font-weight: bolder;
+  }
+  
+  .about-content {
+    max-width: 800px; 
+     margin:0 auto;
+    text-align: center;
+  }
+  
+  .about-title {
+    margin-bottom: 20px;
+  }
+  
+  .about-text {
+    font-size: 1.1rem;
+  }
+  

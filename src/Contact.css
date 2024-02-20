@@ -1,0 +1,33 @@
+.contact-me {
+  background-color: #6b6b6b;
+  padding: 40px;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+
+  margin-left: 40%;
+}
+
+.contact-list li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-list li svg {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+  color: #223a53; 
+}
+
+.contact-list li a {
+  text-decoration: none;
+  color: #010000;
+}
+.cm{
+  margin-left: 45%;
+  font-family: garamond;
+}

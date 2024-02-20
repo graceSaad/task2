@@ -1,0 +1,39 @@
+
+
+.projects {
+    padding: 40px 20px;
+    background-color: #e4e7ea;
+    font-family: garamond;
+
+    font-weight: bolder;
+  }
+  
+  .projects-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  
+  .projects-title {
+    margin-bottom: 20px;
+  }
+  
+  .projects-text {
+    font-size: 1.1rem;
+  }
+.ad{
+    width: 35%;
+    height: 150px;
+}
+.car{
+    margin-top: 2%;
+    padding: 3%;
+    background-color: rgba(95, 104, 105, 0.297);
+}
+.bb{
+  padding: 1%;
+  border-radius:4%;
+  background-color: black;
+  color: beige;
+}
